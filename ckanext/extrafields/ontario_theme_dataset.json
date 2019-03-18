@@ -188,6 +188,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -201,6 +202,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -214,6 +216,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -227,6 +230,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -240,6 +244,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -253,6 +258,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -266,6 +272,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -775,6 +782,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -788,6 +796,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -801,6 +810,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -814,6 +824,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -827,6 +838,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -912,6 +924,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
@@ -1202,6 +1215,7 @@
       },
       "preset": "date",
       "validators": "ignore_missing isodate convert_to_json_if_date",
+      "form_placeholder": "yyyy-mm-dd",
       "form_attrs": {
         "class": "form-control"
       },
