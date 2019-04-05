@@ -1220,6 +1220,20 @@
         "class": "form-control"
       },
       "classes": ["col-md-12"]
+    },
+    {
+      "field_name": "cluster_application_id",
+      "label": {
+        "en": "Cluster Application ID",
+        "fr": "Cluster Application ID"
+      },
+      "preset": "fluent_text",
+      "validators": "ignore_missing",
+      "form_placeholder": "CI0000000000000",
+      "form_attrs": {
+        "class": "form-control"
+      },
+      "classes": ["col-md-12"]
     }
   ],
   "resource_fields": [
