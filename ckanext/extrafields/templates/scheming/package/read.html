@@ -3,6 +3,15 @@
 {%- set schema = h.scheming_get_dataset_schema(dataset_type) -%}
 
 {% block package_notes %}
+  <div class="catalogue-source">
+  {% if pkg.get("node_id","") != "" %}
+    <span class="label label-open">{{ _('Open') }}</span>
+    {{ _('This data asset is available to the public through the public data catalogue.') }}
+  {% else %}
+    <span class="label label-colby">{{ _('Colby') }}</span>
+    {{ _('This data asset is only documented internally in the Ontario Public Service (on Colby).') }}
+  {% endif %} 
+  </div>
   {%- if not dataset_type -%}
     <p>
     dataset_type not passed to template. your version of CKAN
